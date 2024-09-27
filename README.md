@@ -8,12 +8,11 @@ Driven by curiosity and fueled by data, I transform raw numbers into meaningful 
 - **Database Management:** Working with SQL databases to manage and query data efficiently.
 
 ## 🛠️ Tools & Technologies
-![Dashboard GIF](https://github.com/Vipasha23/Vipasha23/blob/main/giphy%20(1).webp) 
-- **Programming Languages:** Python, SQL
-- **Data Visualization:** Power BI, Matplotlib, Seaborn
-- **Data Manipulation:** Pandas, NumPy, Excel
-- **Databases:** MySQL, MongoDB
-- **Others:** Git, Jupyter Notebooks, Excel, Google Sheets
+
+|           |           |
+|-----------|-----------|
+| ![Dashboard GIF](https://github.com/Vipasha23/Vipasha23/blob/main/giphy%20(1).webp) | **Programming Languages:** Python, SQL<br>**Data Visualization:** Power BI, Matplotlib, Seaborn<br>**Data Manipulation:** Pandas, NumPy, Excel<br>**Databases:** MySQL, MongoDB<br>**Others:** Git, Jupyter Notebooks, Excel, Google Sheets |
+
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vipasha23&show_icons=true&theme=radical)
