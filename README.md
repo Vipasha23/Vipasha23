@@ -1,5 +1,5 @@
 # Hi there, I'm Vipasha Dixit 👋
-
+Driven by curiosity and fueled by data, I transform raw numbers into meaningful insights. With expertise in statistical analysis, data visualization, and database management, I thrive on solving complex problems and unlocking the stories hidden in data
 
 ## 🔍 What I Do
 - **Data Analysis:** Extracting, cleaning, and analyzing data to identify trends and patterns.
