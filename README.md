@@ -16,8 +16,8 @@ I'm a passionate Data Analyst with a strong background in Statistics. I enjoy tu
 - **Others:** Git, Jupyter Notebooks, Excel, Google Sheets
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vipasha23&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipasha23&layout=compact&theme=radical)
 
 ## 📊 Portfolio Projects
 Here are some of my key projects that showcase my data analysis skills:
@@ -41,6 +41,6 @@ Here are some of my key projects that showcase my data analysis skills:
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/vipasha-dixit-9370431b9)
-- [Email](vipashadixit@gmail.com)
+- [Email](mailto:vipashadixit@gmail.com)
 
 
