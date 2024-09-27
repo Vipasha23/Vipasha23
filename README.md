@@ -8,6 +8,7 @@ Driven by curiosity and fueled by data, I transform raw numbers into meaningful 
 - **Database Management:** Working with SQL databases to manage and query data efficiently.
 
 ## 🛠️ Tools & Technologies
+![Dashboard GIF](https://github.com/Vipasha23/Vipasha23/blob/main/giphy%20(1).webp) 
 - **Programming Languages:** Python, SQL
 - **Data Visualization:** Power BI, Matplotlib, Seaborn
 - **Data Manipulation:** Pandas, NumPy, Excel
