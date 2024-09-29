@@ -11,7 +11,7 @@ Driven by curiosity and fueled by data, I transform raw numbers into meaningful 
 
 |           |           |
 |-----------|-----------|
-| **Programming Languages:** Python, SQL<br>**Data Visualization:** Power BI, Matplotlib, Seaborn<br>**Data Manipulation:** Pandas, NumPy, Excel<br>**Databases:** MySQL, MongoDB<br>**Others:** Git, Jupyter Notebooks, Excel, Google Sheets             | ![Dashboard GIF](https://github.com/Vipasha23/Vipasha23/blob/main/giphy%20(1).webp) |
+| **Programming Languages:** Python, SQL<br>**Data Visualization:** Power BI, Matplotlib, Seaborn<br>**Data Manipulation:** Pandas, NumPy, Excel<br>**Databases:** MySQL, MongoDB<br>**Others:** Git, Jupyter Notebooks, Excel, Google Sheets             | ![Dashboard GIF](https://github.com/Vipasha23/Vipasha23/blob/main/giphy%20(2).webp) |
 
 
 ## 📈 GitHub Stats
